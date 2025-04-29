@@ -1,13 +1,27 @@
-theme: minima
 title: Wax Legal
-author: mjc
+author: 
+  name: mjc
 description: Making sausages out of the future.
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 minima:
   skin: solarized
+  
   show_excerpts: true
+
   social_links:
     - title: Wax Legal on Bluesky
       icon: bluesky
       url: "https://bsky.app/profile/wax.legal"
-  
+
+  nav_pages:
+    - about.md
