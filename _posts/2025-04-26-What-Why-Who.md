@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "AI Safety Project: What, Why, Who"
 date: 2025-04-26
 ---
