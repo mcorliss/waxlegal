@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Safety: First Calls
+title: "AI Safety: First Calls"
 date: 2025-04-28
 ---
 
