@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Calls
-date: 2024-04-28
+date: 2025-04-28
 ---
 
 My first call was discouraging.  To start, I was calling the person most explicitly tasked with representing me in Congress, and as a DC resident it was a reminder that I don't have a voting representative in Congress.  But the receptionist in Congresswoman Eleanor Holmes Norton's office was polite as I nervously explained my concerns about AI, and the legistlation that I wanted the Congresswoman to support (more on that in a future post!).  When I paused for breath, she asked if she could put me on hold to see if there was someone I could speak to.  She came back shortly to tell me that a person named Jesse (Jessie? Jessy?) would get back to me, and took my name, number, and email address.
