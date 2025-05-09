@@ -2,9 +2,10 @@
 layout: post
 title: "AI Safety Project: First Calls"
 date: 2025-04-28
+excerpt_separator: <!--more-->
 ---
 
-My first call was discouraging.  To start, I was calling the person most explicitly tasked with representing me in Congress, and as a DC resident it was a reminder that I don't have a voting representative in Congress.  But the receptionist in Congresswoman Eleanor Holmes Norton's office was polite as I nervously explained my concerns about AI, and the legistlation that I wanted the Congresswoman to support (more on that in a future post!).  When I paused for breath, she asked if she could put me on hold to see if there was someone I could speak to.  She came back shortly to tell me that a person named Jesse (Jessie? Jessy?) would get back to me, and took my name, number, and email address.
+I was calling the person most explicitly tasked with representing me in Congress, and as a DC resident it was a reminder that I don't have a voting representative in Congress.<!--more-->  But the receptionist in Congresswoman Eleanor Holmes Norton's office was polite as I nervously explained my concerns about AI, and the legistlation that I wanted the Congresswoman to support (more on that in a future post!).  When I paused for breath, she asked if she could put me on hold to see if there was someone I could speak to.  She came back shortly to tell me that a person named Jesse (Jessie? Jessy?) would get back to me, and took my name, number, and email address.
 
 This, I gather, is standard. To a first approximation, the job of a receptionist to a Member of Congress is to figure out why you are there and then politely invite you to fuck off as quickly as possible.  When I proposed the idea for this project in my group, another student asked if I was worried I would come off as a crazy person. I am! There are few concerns more crazy-person-sounding than a robot apocalypse, and it's hard to express concerns about AI to someone who isn't already concerned about AI without it coming across as "robot apocalypse".  And Members of Congress must get [plenty of inquiries from people quite disconnected from reality](https://www.youtube.com/watch?v=Dqgazx-24mo), and so I expect them to be well practiced at ending an interaction.
 
