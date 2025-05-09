@@ -2,9 +2,10 @@
 layout: post
 title: "AI Safety Project: What, Why, Who"
 date: 2025-04-26
+excerpt_separator: <!--more-->
 ---
 
-This blog is the chronicle of a personal impact project created as part of the [CAIS AI Safety and Ethics course](https://www.aisafetybook.com/virtual-course). The idea is to encourage the federal legislature to take action on AI Safety by contacting them directly, explaining the problem, and identifying actions they can take.
+This blog is the chronicle of a personal impact project created as part of the [CAIS AI Safety and Ethics course](https://www.aisafetybook.com/virtual-course).<!--more--> The idea is to encourage the federal legislature to take action on AI Safety by contacting them directly, explaining the problem, and identifying actions they can take.
 
 AI will have a huge impact on the world over the next few years and decades.  It's developed more rapidly than many had expected, it's already being deployed in the real world, and it's already having widespread consequences, both good and bad.  As it continues to improve, it's important that we take steps to maximize the benefits and minimize the harms.
 
